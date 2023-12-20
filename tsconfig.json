@@ -23,6 +23,7 @@
     "tests",
     "build",
     "coverage",
+    "website",
     "/*.js",
     "/*.cjs"
   ]
